@@ -1,9 +1,0 @@
-#!/bin/bash 
-
-#Prints out summary hardware
-
-echo Printing out hardware information
-
-lshw -short 
-
-echo Process ending...
